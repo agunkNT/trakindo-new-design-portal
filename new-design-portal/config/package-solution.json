@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dmip-webpart",
+    "id": "f072fbf3-a243-45ae-a36c-47ad6c7b076e",
+    "version": "1.0.7.8",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Digital Marketing Intelligent Platform"
+      },
+      "longDescription": {
+        "default": "Digital Marketing Intelligent Platform"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "Digital Marketing Intelligent Platform Feature",
+        "description": "The feature that activates elements of the Digital Marketing Intelligent Platform solution.",
+        "id": "edefe7d6-c327-4eb5-a23c-df1b36937099",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/dmip-webpart.sppkg"
+  }
+}
